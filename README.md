@@ -15,14 +15,12 @@
 ### Pre-requisites libraries/packages
 1. Streamlit - For building the web UI framework using the streamlit library
 For installation: pip install streamlit
-Once installed: import streamlit
 
 2. Requests - For fetching the data in real-time from a URL using the request library
 Installed: import requests
 
 3. bs4 - For parsing URL content using beautifulsoup library
 For installation: pip install beautifulsoup
-Once installed: import bs4
 
 Note: Installation of these libraries will be requiring an internet connection
 
