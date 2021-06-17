@@ -1,7 +1,7 @@
 # PDF Search
 ## A simple Python script that searches only PDF documents when certain keywords are given as input.
 
-### Features of the image tool are as listed below (operations the tool can perform):
+### Features of the SearchPDF tool are as listed below (operations the system can perform):
 1. Search any keyword to look for a PDF
 2. Search for maximum 100 pages and 100 results on a single page
 3. By default, search will show 10 results for the first page.
