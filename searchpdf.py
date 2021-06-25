@@ -41,7 +41,7 @@ def search_pdf(num, page_start):
         url="https://google.com/search?q=" + 'filetype:pdf ' + search_data + '&num=' + str(num) + '&start=' + str(page_start)
         # webbrowser.get().open(url)
         link_results = requests.get(url)
-        soup = bs4.BeautifulSoup(link_results.text, 'lxml')
+        soup = bs4.BeautifulSoup(link_results.text, 'html')
         main_text_data = soup.find_all('h3')
         main_links_data = soup.find_all('a')
         title_data = []
