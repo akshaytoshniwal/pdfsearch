@@ -1,6 +1,6 @@
 # PDF Search
 ## A simple Python script that searches only PDF documents when certain keywords are given as input.
-## To check the demo, follow the link: https://share.streamlit.io/akshaytoshniwal/pdfsearch/main/searchpdf.py
+#### To check the demo, follow the link: https://share.streamlit.io/akshaytoshniwal/pdfsearch/main/searchpdf.py
 
 
 ### Features of the SearchPDF tool are as listed below (operations the system can perform):
@@ -40,4 +40,4 @@ This is to give you an idea about the system configuration
 2. 256 GB SSD (make sure required space is available in your system in order to install the packages and run the code)
 3. No dedicated GPU required
 
-## To check the demo, follow the link: https://share.streamlit.io/akshaytoshniwal/pdfsearch/main/searchpdf.py
+### To check the demo, follow the link: https://share.streamlit.io/akshaytoshniwal/pdfsearch/main/searchpdf.py
